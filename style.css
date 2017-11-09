@@ -9,7 +9,7 @@ flex-wrap: wrap;
         width: 120%;
 	display: flex;
 	flex-wrap: wrap;
-	text-align:center;
+	text-align:right;
 }
 
 .box1 {
@@ -42,7 +42,8 @@ flex-wrap: wrap;
 .box1{background-color:#0d0d0d;}
 .box2{background-color: #fdfda9;}
 .box3{background-color:#9fd5f6;}
-.box4{background-color:#F0F8FF;}
+.box4{background-color:#F0F8FF;}\
+
 
 
 @media screen and (max-width: 700px){
