@@ -6,7 +6,7 @@ flex-wrap: wrap;
 }
 .box5{
 	height: 10%;
-    width: 100%;
+        width: 100%;
 	display: flex;
 	flex-wrap: wrap;
 	text-align:center;
@@ -14,7 +14,7 @@ flex-wrap: wrap;
 
 .box1 {
 	height: 45%;
-    width: 49%;
+    	width: 49%;
 	display: flex;
 	flex-wrap: wrap;
 }
