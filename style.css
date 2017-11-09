@@ -14,27 +14,27 @@ flex-wrap: wrap;
 
 .box1 {
 	height: 45%;
-    	width: 49%;
+    	width: 50%;
 	display: flex;
 	flex-wrap: wrap;
 }
 
 .box2 {
 	height: 45%;
-	width: 49%;
+	width: 50%;
 	display: flex;
 	flex-wrap: wrap;
 }
 
 .box3{
 	height: 45%; 
-	width: 49%;
+	width: 50%;
 	display: flex;
 	flex-wrap: wrap;
 }
 .box4 {
 	height: 45%; 
-	width: 49%;
+	width: 50%;
 	display: flex;
 	flex-wrap: wrap;
 }
