@@ -1,12 +1,12 @@
 function play1(){
-documnet.getElementById("strangerthings").play();
+document.getElementById("strangerthings").play();
 }
 function play2(){
-documnet.getElementById("americanhorror").play();
+document.getElementById("americanhorror").play();
 }
 function play3(){
-documnet.getElementById("riverdale").play();
+document.getElementById("riverdale").play();
 }
 function play4(){
-documnet.getElementById("thegetdown").play();
+documnent.getElementById("thegetdown").play();
 }
