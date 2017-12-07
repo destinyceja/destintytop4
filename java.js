@@ -8,5 +8,5 @@ function play3(){
 document.getElementById("riverdale").play();
 }
 function play4(){
-documnent.getElementById("thegetdown").play();
+document.getElementById("thegetdown").play();
 }
