@@ -69,18 +69,26 @@ img:active {
  @media screen and (max-width: 300px){
 	}
 .box1 {
-	display:block;
+	display:block;	
+	height:50%;
+	width:100%;
 }
 .box2 {
 	display:block;
+	height:50%;
+	width:100%;
 	
 }
 .box3 {
 	display:block;
+	height:50%;
+	width:100%;
 	
 }
 .box4 {
 	display:block;
+	height:50%;
+	width:100%;
 	
 }
 
